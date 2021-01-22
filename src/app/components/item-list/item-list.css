@@ -1,0 +1,56 @@
+.item-list .label-container {
+    display: flex;
+    align-items: center;
+}
+
+.item-list .label-info {
+    display: flex;
+}
+.item-list .label-info-break {
+    stroke: rgba(var(--ion-text-color-rgb, 0, 0, 0), 0.4);
+    stroke-width: 1;
+}
+
+.item-list p {
+    color: rgba(var(--ion-text-color-rgb, 0, 0, 0), 0.4);
+}
+
+.item-list .label-info-1 {
+    bottom: 5px;
+    left: 5px;
+    position: relative;
+}
+
+.item-list .label-info-2 {
+    top: 5px;
+    right: 5px;
+    position: relative;
+}
+
+.item-list .label-info-container {
+    margin-left: 10px;
+    margin-top: 5px;
+    display: flex;
+}
+
+.item-list .additive {
+    
+}
+
+.slider {
+    position: relative;
+}
+
+.slider .background {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    border: 1px solid #e8e8e8;
+    position: absolute;
+}
+
+.slider .stroked {
+    background-color: #34626c;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 1;
+}

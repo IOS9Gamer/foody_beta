@@ -1,0 +1,9 @@
+<div class="slider-container">
+    <p *ngIf="getRoundedValue(value) >= 5" class="label" [style.margin-left.px]="getRoundedValue(value) - 20" [@label]="getRoundedValue(value) === 200 ? 'full' : 'used'">{{  volume ? tmpVolume : '' }}
+        {{ volume ? unit : '' }}</p>
+    <div #slider class="slider" [style.width.px]="width" [style.height.px]="height"
+        (pointerdown)="onPointerDown($event)" (pointermove)="onPointerMove($event)">
+        <div class="background" [style.width.px]="width" [style.height.px]="height"></div>
+        <div class="stroked" [style.height.px]="height" [style.width.px]="value"></div>
+    </div>
+</div>

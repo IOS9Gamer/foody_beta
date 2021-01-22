@@ -1,0 +1,33 @@
+    <ion-list class="item-list">
+        <ion-item-group *ngFor="let itemGroup of storage.fridge.beverages">
+            <ion-item-divider>
+                <ion-label>{{ itemGroup.name }}</ion-label>
+            </ion-item-divider>
+            <ion-item *ngFor="let item of itemGroup.content" style="transition: height 210ms ease-out;">
+                <ion-avatar class="image" slot="start" (click)="onToggleItem(item)">
+                    <img [src]="item.img || 'assets/images/default-img.jpg'">
+                </ion-avatar>
+                <ion-label>
+                    <div class="label-container">
+                        {{ item.name }}
+                        <div class="label-info-container" *ngIf="!item.open">
+                            <div class="label-info-1">
+                                <p>x{{ item.quantity.length }}</p>
+                            </div>
+                            <div>
+                                <svg height="20" width="20">
+                                    <line x1="0" y1="20" x2="20" y2="0" class="label-info-break" />
+                                </svg>
+                            </div>
+                            <div class="label-info-2">
+                                <p>{{ item.volume }}{{ item.unit }}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div [@slider]="item.quantity.length" class="additive" *ngIf="item.open">
+                        <slider (alert)="isEmptyAlert(i, item)" [volume]="item.volume" [unit]="item.unit" [value]="quantity.value * 2" (updatedValue)="onUpdateValue(i, item.quantity, $event)" class="ion-margin" *ngFor="let quantity of item.quantity; let i = index"></slider>
+                    </div>
+                </ion-label>
+            </ion-item>
+        </ion-item-group>
+    </ion-list>

@@ -1,0 +1,999 @@
+{
+  "code": "40255705",
+  "status": 1,
+  "product": {
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+    "nutrition_grade_fr": "c",
+    "ingredients_text_with_allergens_fr": "",
+    "additives_prev_original_tags": [],
+    "manufacturing_places_tags": [],
+    "nutrient_levels_tags": [
+      "en:fat-in-low-quantity",
+      "en:saturated-fat-in-moderate-quantity",
+      "en:sugars-in-moderate-quantity",
+      "en:salt-in-low-quantity"
+    ],
+    "data_quality_info_tags": [
+      "en:packaging-data-incomplete",
+      "en:ingredients-percent-analysis-ok"
+    ],
+    "additives_original_tags": ["en:e407", "en:e160a"],
+    "ingredients_from_palm_oil_n": 0,
+    "emb_codes_tags": [],
+    "nutrient_levels": {
+      "sugars": "moderate",
+      "fat": "low",
+      "salt": "low",
+      "saturated-fat": "moderate"
+    },
+    "traces_hierarchy": ["en:eggs", "en:milk"],
+    "nutriscore_score_opposite": -3,
+    "ingredients_text_fr": "",
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+    "product_name_de": "Milchreis Vanille",/*wichtig*/
+    "nutriscore_grade": "c",
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "forest_footprint_data": {/*wichtig*/
+      "ingredients": [
+        {
+          "footprint_per_kg": 3.96666666666622e-6,
+          "percent": 0.00499999999999943,
+          "type": {
+            "soy_yield": "0.3",
+            "name": "Oeufs Importés",
+            "deforestation_risk": "0.68",
+            "soy_feed_factor": "0.035"
+          },
+          "matching_tag_id": "en:egg",
+          "percent_estimate": 0.00499999999999943,
+          "tag_id": "en:whole-egg",
+          "tag_type": "ingredients",
+          "conditions_tags": [],
+          "processing_factor": "1"
+        }
+      ],
+      "grade": "a",
+      "footprint_per_kg": 3.96666666666622e-6
+    },
+    "nutrition_data": "on",
+    "origins_tags": [],
+    "misc_tags": [
+      "en:nutrition-no-fiber",
+      "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+      "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+      "en:nutriscore-computed",
+      "en:forest-footprint-computed",
+      "en:forest-footprint-a"
+    ],
+    "packaging_tags": ["plastik"],/*wichtig*/
+    "image_front_small_url": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.200.jpg",/*wichtig*/
+    "categories": "Desserts, Puddings, Milchreisbrei, Vanillemilchreis",
+    "ecoscore_grade": "b",/*wichtig 1img*/
+    "data_quality_tags": [
+      "en:packaging-data-incomplete",
+      "en:ingredients-percent-analysis-ok",
+      "en:ecoscore-origins-of-ingredients-origins-are-100-percent-unknown",
+      "en:ecoscore-packaging-packaging-data-missing"
+    ],
+    "nutrition_data_prepared": "",
+    "nucleotides_tags": [],
+    "last_image_dates_tags": ["2020-12-30", "2020-12", "2020"],
+    "cities_tags": [],
+    "pnns_groups_2": "Dairy desserts",
+    "origins": "",
+    "allergens_lc": "de",
+    "languages": { "en:english": 1, "en:french": 4, "en:german": 5 },
+    "sortkey": 1609615531,
+    "allergens_from_user": "(de) en:eggs,en:milk",
+    "ingredients_text_de": "Vollmilch, Buttermilch, Wasser, Zucker, 6,7% Reis, Traubenzucker, Vanillepulver, Vollei, Speisesalz, modifiziert Stärke, Verdickungsmittel, Johannisbrotkernmehl, Gurkenmehl, Carrageen, Farbstoff (Carotin), 0,04% natürliches Vanillearoma, Aroma",
+    "brands": "Müller",
+    "pnns_groups_1_tags": ["milk-and-dairy-products", "known"],
+    "image_front_url": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.400.jpg",/*wichtig 2img*/
+    "interface_version_created": "20150316.jqm2",
+    "image_nutrition_thumb_url": "https://static.openfoodfacts.org/images/products/40255705/nutrition_de.22.100.jpg",
+    "generic_name_fr": "",
+    "additives_debug_tags": [],
+    "image_ingredients_url": "https://static.openfoodfacts.org/images/products/40255705/ingredients_de.24.400.jpg",
+    "allergens": "en:eggs,en:milk",
+    "allergens_tags": ["en:eggs", "en:milk"],
+    "categories_properties_tags": [
+      "all-products",
+      "categories-known",
+      "agribalyse-food-code-39212",
+      "agribalyse-food-code-known",
+      "agribalyse-proxy-food-code-unknown",
+      "ciqual-food-code-39212",
+      "ciqual-food-code-known",
+      "agribalyse-known",
+      "agribalyse-39212"
+    ],
+    "amino_acids_prev_tags": [],
+    "selected_images": {
+      "ingredients": {
+        "small": {
+          "de": "https://static.openfoodfacts.org/images/products/40255705/ingredients_de.24.200.jpg",
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/ingredients_fr.7.200.jpg"
+        },
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/ingredients_fr.7.400.jpg",
+          "de": "https://static.openfoodfacts.org/images/products/40255705/ingredients_de.24.400.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/ingredients_fr.7.100.jpg",
+          "de": "https://static.openfoodfacts.org/images/products/40255705/ingredients_de.24.100.jpg"
+        }
+      },
+      "front": {
+        "small": {
+          "de": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.200.jpg",
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/front_fr.4.200.jpg"
+        },
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/front_fr.4.400.jpg",
+          "de": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.400.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/front_fr.4.100.jpg",
+          "de": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.100.jpg"
+        }
+      },
+      "nutrition": {
+        "small": {
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/nutrition_fr.10.200.jpg",
+          "de": "https://static.openfoodfacts.org/images/products/40255705/nutrition_de.22.200.jpg"
+        },
+        "display": {
+          "de": "https://static.openfoodfacts.org/images/products/40255705/nutrition_de.22.400.jpg",
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/nutrition_fr.10.400.jpg"
+        },
+        "thumb": {
+          "de": "https://static.openfoodfacts.org/images/products/40255705/nutrition_de.22.100.jpg",
+          "fr": "https://static.openfoodfacts.org/images/products/40255705/nutrition_fr.10.100.jpg"
+        }
+      }
+    },
+    "nutrition_data_per": "100g",
+    "languages_codes": { "fr": 4, "de": 5, "en": 1 },
+    "completeness": 0.7875,
+    "nutrition_score_beverage": 0,
+    "last_image_t": 1609361343,
+    "serving_quantity": "200",
+    "packagings": [{ "material": "en:unknown", "shape": "en:unknown" }],
+    "ingredients_ids_debug": [],
+    "last_modified_t": 1609615531,
+    "photographers_tags": [
+      "kiliweb",
+      "date-limite-app",
+      "soarman",
+      "gartenkralle"
+    ],
+    "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.100.jpg",
+    "nutriscore_score": 3,
+    "additives_n": 2,
+    "states_tags": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-selected",
+      "en:ingredients-photo-selected",
+      "en:front-photo-selected",
+      "en:photos-uploaded"
+    ],
+    "ingredients_analysis_tags": [
+      "en:may-contain-palm-oil",
+      "en:non-vegan",
+      "en:vegetarian-status-unknown"
+    ],
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "nova_group": 4,
+    "pnns_groups_1": "Milk and dairy products",
+    "purchase_places": "",
+    "ciqual_food_name_tags": ["unknown"],
+    "nutrition_grades_tags": ["c"],
+    "complete": 0,
+    "image_nutrition_url": "https://static.openfoodfacts.org/images/products/40255705/nutrition_de.22.400.jpg",
+    "ecoscore_score": 66.7607873357637,
+    "informers_tags": [
+      "yuka.ZWE4K1BZc1l2UEl1dHNKbnJqajh5ODVJbmI2QVhXSG1FYklTSVE9PQ",
+      "kiliweb",
+      "soarman",
+      "raturina",
+      "inf",
+      "gartenkralle"
+    ],
+    "codes_tags": [
+      "code-8",
+      "40255xxx",
+      "4025xxxx",
+      "402xxxxx",
+      "40xxxxxx",
+      "4xxxxxxx"
+    ],
+    "ingredients_text_with_allergens": "<span class=\"allergen\">Vollmilch</span>, <span class=\"allergen\">Buttermilch</span>, Wasser, Zucker, 6,7% Reis, Traubenzucker, Vanillepulver, <span class=\"allergen\">Vollei</span>, Speisesalz, modifiziert Stärke, Verdickungsmittel, Johannisbrotkernmehl, Gurkenmehl, Carrageen, Farbstoff (Carotin), 0,04% natürliches Vanillearoma, Aroma",
+    "popularity_key": 18900000022,
+    "nutrition_score_warning_no_fiber": 1,
+    "image_url": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.400.jpg",/*wichtig mainimg*/
+    "product_name": "Milchreis Vanille",/*wichtig*/
+    "ingredients_text_en": "whole milk, buttermilk, water, sugar, 6.7% rice, glucose, vanilla powder, whole egg, table salt, modified starch, thickener, carob gum, cucumber flour, carrageenan, colouring (carotene), 0.04% natural vanilla flavor, flavor",
+    "additives_old_tags": [],
+    "quantity": "200 g",/*wichtig*/
+    "image_ingredients_thumb_url": "https://static.openfoodfacts.org/images/products/40255705/ingredients_de.24.100.jpg",
+    "labels_hierarchy": ["en:made-in-germany"],/*wichtig*/
+    "data_quality_warnings_tags": [
+      "en:ecoscore-origins-of-ingredients-origins-are-100-percent-unknown",
+      "en:ecoscore-packaging-packaging-data-missing"
+    ],
+    "vitamins_prev_tags": [],
+    "category_properties": {},
+    "popularity_tags": [
+      "top-100000-scans-2019",
+      "at-least-5-scans-2019",
+      "at-least-10-scans-2019",
+      "top-90-percent-scans-2019",
+      "top-95-percent-scans-2019",
+      "top-10000-de-scans-2019",
+      "top-50000-de-scans-2019",
+      "top-100000-de-scans-2019",
+      "top-country-de-scans-2019",
+      "at-least-5-de-scans-2019",
+      "at-least-10-de-scans-2019"
+    ],
+    "nova_group_debug": " -- ingredients/en:salt : 3 -- ingredients/en:flavouring : 4",
+    "stores": "",
+    "interface_version_modified": "20150316.jqm2",
+    "compared_to_category": "en:vanilla-flavored-rice-pudding",
+    "ingredients_tags": [
+      "en:whole-milk",
+      "en:dairy",
+      "en:milk",
+      "en:buttermilk",
+      "en:water",
+      "en:sugar",
+      "en:rice",
+      "en:grape-sugar",
+      "en:vanilla-powder",
+      "en:plant",
+      "en:vanilla",
+      "en:whole-egg",
+      "en:egg",
+      "en:salt",
+      "de:modifiziert-stärke",
+      "en:thickener",
+      "en:carob-seed-flour",
+      "en:flour",
+      "en:e410",
+      "de:gurkenmehl",
+      "en:e407",
+      "en:colour",
+      "en:natural-vanilla-flavouring",
+      "en:flavouring",
+      "en:natural-flavouring",
+      "en:vanilla-flavouring",
+      "en:e160a"
+    ],
+    "categories_properties": {
+      "agribalyse_food_code:en": "39212",
+      "ciqual_food_code:en": "39212"
+    },
+    "brands_tags": ["muller"],
+    "origins_lc": "de",
+    "allergens_hierarchy": ["en:eggs", "en:milk"],
+    "traces": "en:eggs,en:milk",
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "ingredients_text": "Vollmilch, Buttermilch, Wasser, Zucker, 6,7% Reis, Traubenzucker, Vanillepulver, Vollei, Speisesalz, modifiziert Stärke, Verdickungsmittel, Johannisbrotkernmehl, Gurkenmehl, Carrageen, Farbstoff (Carotin), 0,04% natürliches Vanillearoma, Aroma",
+    "pnns_groups_2_tags": ["dairy-desserts", "known"],
+    "states_hierarchy": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-selected",
+      "en:ingredients-photo-selected",
+      "en:front-photo-selected",
+      "en:photos-uploaded"
+    ],
+    "image_nutrition_small_url": "https://static.openfoodfacts.org/images/products/40255705/nutrition_de.22.200.jpg",
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+    "traces_from_ingredients": "",
+    "traces_from_user": "(de) en:eggs,en:milk",
+    "ingredients_original_tags": [
+      "en:whole-milk",
+      "en:buttermilk",
+      "en:water",
+      "en:sugar",
+      "en:rice",
+      "en:grape-sugar",
+      "en:vanilla-powder",
+      "en:whole-egg",
+      "en:salt",
+      "de:modifiziert Stärke",
+      "en:thickener",
+      "en:carob-seed-flour",
+      "de:Gurkenmehl",
+      "en:e407",
+      "en:colour",
+      "en:natural-vanilla-flavouring",
+      "en:flavouring",
+      "en:e160a"
+    ],
+    "countries": "en:Germany",
+    "entry_dates_tags": ["2018-07-15", "2018-07", "2018"],
+    "ingredients_text_with_allergens_de": "<span class=\"allergen\">Vollmilch</span>, <span class=\"allergen\">Buttermilch</span>, Wasser, Zucker, 6,7% Reis, Traubenzucker, Vanillepulver, <span class=\"allergen\">Vollei</span>, Speisesalz, modifiziert Stärke, Verdickungsmittel, Johannisbrotkernmehl, Gurkenmehl, Carrageen, Farbstoff (Carotin), 0,04% natürliches Vanillearoma, Aroma",
+    "unknown_nutrients_tags": [],
+    "additives_tags": ["en:e160a", "en:e407"],
+    "image_small_url": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.200.jpg",
+    "categories_hierarchy": [
+      "en:desserts",
+      "en:puddings",
+      "en:rice-puddings",
+      "en:vanilla-flavored-rice-pudding"
+    ],
+    "minerals_tags": [],
+    "data_quality_errors_tags": [],
+    "image_thumb_url": "https://static.openfoodfacts.org/images/products/40255705/front_de.17.100.jpg",
+    "max_imgid": "7",
+    "ingredients_from_palm_oil_tags": [],
+    "ingredients_n_tags": ["18", "11-20"],
+    "last_edit_dates_tags": ["2021-01-02", "2021-01", "2021"],
+    "id": "40255705",
+    "lc": "de",
+    "scans_n": 23,
+    "origins_hierarchy": [],
+    "debug_param_sorted_langs": ["de", "fr"],
+    "last_editor": "raturina",
+    "correctors_tags": [
+      "openfoodfacts-contributors",
+      "date-limite-app",
+      "yuka.SDV3TEdyOGcrL01FcWNCbHd4UHY4KzhzbXJtWVhraUlJTFl6SVE9PQ",
+      "soarman",
+      "raturina",
+      "tacite-mass-editor"
+    ],
+    "languages_tags": [
+      "en:german",
+      "en:english",
+      "en:french",
+      "en:3",
+      "en:multilingual"
+    ],
+    "images": {
+      "front_fr": {
+        "imgid": "1",
+        "x1": null,
+        "angle": null,
+        "white_magic": "0",
+        "sizes": {
+          "100": { "w": 89, "h": 100 },
+          "400": { "h": 400, "w": 355 },
+          "full": { "w": 1065, "h": 1200 },
+          "200": { "w": 178, "h": 200 }
+        },
+        "rev": "4",
+        "geometry": "0x0-0-0",
+        "y1": null,
+        "x2": null,
+        "normalize": "0",
+        "y2": null
+      },
+      "7": {
+        "uploaded_t": 1609361343,
+        "uploader": "gartenkralle",
+        "sizes": {
+          "100": { "w": 100, "h": 85 },
+          "full": { "h": 1551, "w": 1818 },
+          "400": { "h": 341, "w": 400 }
+        }
+      },
+      "6": {
+        "uploader": "gartenkralle",
+        "uploaded_t": 1609361303,
+        "sizes": {
+          "100": { "w": 84, "h": 100 },
+          "400": { "h": 400, "w": 337 },
+          "full": { "w": 1627, "h": 1932 }
+        }
+      },
+      "nutrition_de": {
+        "rev": "22",
+        "sizes": {
+          "200": { "w": 168, "h": 200 },
+          "full": { "h": 1932, "w": 1627 },
+          "400": { "w": 337, "h": 400 },
+          "100": { "w": 84, "h": 100 }
+        },
+        "white_magic": null,
+        "x1": "-1",
+        "imgid": "6",
+        "coordinates_image_size": "full",
+        "angle": 0,
+        "y2": "-1",
+        "x2": "-1",
+        "y1": "-1",
+        "normalize": null,
+        "geometry": "0x0--1--1"
+      },
+      "4": {
+        "sizes": {
+          "100": { "h": 100, "w": 75 },
+          "400": { "w": 300, "h": 400 },
+          "full": { "w": 1000, "h": 1333 }
+        },
+        "uploaded_t": 1536069005,
+        "uploader": "date-limite-app"
+      },
+      "ingredients_de": {
+        "rev": "24",
+        "sizes": {
+          "100": { "h": 85, "w": 100 },
+          "200": { "w": 200, "h": 171 },
+          "400": { "h": 341, "w": 400 },
+          "full": { "w": 1818, "h": 1551 }
+        },
+        "white_magic": null,
+        "angle": 0,
+        "coordinates_image_size": "full",
+        "imgid": "7",
+        "x1": "-1",
+        "y2": "-1",
+        "normalize": null,
+        "x2": "-1",
+        "y1": "-1",
+        "geometry": "0x0--1--1"
+      },
+      "front_de": {
+        "angle": 0,
+        "x1": "-1",
+        "imgid": "5",
+        "white_magic": null,
+        "sizes": {
+          "400": { "h": 400, "w": 351 },
+          "full": { "h": 2468, "w": 2168 },
+          "200": { "w": 176, "h": 200 },
+          "100": { "h": 100, "w": 88 }
+        },
+        "rev": "17",
+        "geometry": "0x0--6--6",
+        "normalize": null,
+        "y1": "-1",
+        "x2": "-1",
+        "y2": "-1"
+      },
+      "5": {
+        "sizes": {
+          "400": { "w": 351, "h": 400 },
+          "full": { "w": 2168, "h": 2468 },
+          "100": { "w": 88, "h": 100 }
+        },
+        "uploaded_t": 1560601309,
+        "uploader": "soarman"
+      },
+      "3": {
+        "sizes": {
+          "400": { "w": 400, "h": 314 },
+          "full": { "w": 1527, "h": 1200 },
+          "100": { "w": 100, "h": 79 }
+        },
+        "uploader": "kiliweb",
+        "uploaded_t": 1531665465
+      },
+      "nutrition_fr": {
+        "rev": "10",
+        "sizes": {
+          "100": { "h": 79, "w": 100 },
+          "full": { "h": 1200, "w": 1527 },
+          "200": { "h": 157, "w": 200 },
+          "400": { "w": 400, "h": 314 }
+        },
+        "white_magic": "0",
+        "ocr": 1,
+        "x1": null,
+        "imgid": "3",
+        "angle": null,
+        "y2": null,
+        "y1": null,
+        "x2": null,
+        "normalize": "0",
+        "geometry": "0x0-0-0",
+        "orientation": "0"
+      },
+      "2": {
+        "sizes": {
+          "100": { "w": 73, "h": 100 },
+          "400": { "w": 293, "h": 400 },
+          "full": { "w": 879, "h": 1200 }
+        },
+        "uploaded_t": 1531665460,
+        "uploader": "kiliweb"
+      },
+      "1": {
+        "uploaded_t": 1531665457,
+        "uploader": "kiliweb",
+        "sizes": {
+          "400": { "h": 400, "w": 355 },
+          "full": { "h": 1200, "w": 1065 },
+          "100": { "h": 100, "w": 89 }
+        }
+      },
+      "ingredients_fr": {
+        "x2": null,
+        "y1": null,
+        "normalize": "0",
+        "y2": null,
+        "geometry": "0x0-0-0",
+        "orientation": "0",
+        "sizes": {
+          "full": { "h": 1200, "w": 879 },
+          "200": { "w": 147, "h": 200 },
+          "400": { "h": 400, "w": 293 },
+          "100": { "w": 73, "h": 100 }
+        },
+        "rev": "7",
+        "imgid": "2",
+        "x1": null,
+        "angle": null,
+        "white_magic": "0",
+        "ocr": 1
+      }
+    },
+    "data_sources_tags": ["app-yuka", "apps"],
+    "emb_codes": "",
+    "known_ingredients_n": 25,
+    "update_key": "ecoscore20210102c",
+    "last_modified_by": "raturina",
+    "creator": "kiliweb",
+    "other_nutritional_substances_tags": [],
+    "nova_group_tags": ["not-applicable"],
+    "data_sources": "App - yuka, Apps",
+    "traces_tags": ["en:eggs", "en:milk"],
+    "checkers_tags": [],
+    "product_quantity": "200",
+    "additives_old_n": 0,
+    "ingredients_debug": [],
+    "purchase_places_tags": [],
+    "rev": 25,
+    "nucleotides_prev_tags": [],
+    "ecoscore_data": {
+      "adjustments": {
+        "production_system": {},
+        "packaging": {
+          "packagings": [
+            {
+              "ecoscore_material_score": 0,
+              "shape": "en:unknown",
+              "ecoscore_shape_ratio": 1,
+              "material": "en:unknown"
+            }
+          ],
+          "score": 0,
+          "value": -10,
+          "warning": "unscored_material"
+        },
+        "origins_of_ingredients": {
+          "value": -5,
+          "transportation_value": 0,
+          "warning": "origins_are_100_percent_unknown",
+          "transportation_score": 0,
+          "origins_from_origins_field": ["en:unknown"],
+          "aggregated_origins": [{ "percent": 100, "origin": "en:unknown" }],
+          "epi_value": -5,
+          "epi_score": 0
+        },
+        "threatened_species": {}
+      },
+      "grade": "b",
+      "status": "known",
+      "agribalyse": {
+        "agribalyse_food_code": "39212",
+        "ef_distribution": "0.0089786658",
+        "score": 81.7607873357637,
+        "co2_agriculture": "1.0743985",
+        "co2_transportation": "0.21907161",
+        "dqr": "2.9",
+        "ef_processing": "0.033752569999999996",
+        "ef_consumption": "0.0024293397",
+        "name_fr": "Riz au lait, rayon frais",
+        "co2_consumption": "0.0047993021",
+        "co2_distribution": "0.030685111",
+        "co2_packaging": "0.21221738",
+        "ef_transportation": "0.017734628000000002",
+        "ef_agriculture": "0.13978782",
+        "ef_packaging": "0.016118590000000002",
+        "co2_processing": "0.16106799",
+        "ef_total": "0.21880162",
+        "name_en": "Rice pudding, refrigerated",
+        "co2_total": "1.7022399",
+        "code": "39212"
+      },
+      "score": 66.7607873357637
+    },
+    "image_ingredients_small_url": "https://static.openfoodfacts.org/images/products/40255705/ingredients_de.24.200.jpg",
+    "ingredients_text_debug": null,
+    "categories_tags": [
+      "en:desserts",
+      "en:puddings",
+      "en:rice-puddings",
+      "en:vanilla-flavored-rice-pudding"
+    ],
+    "ingredients": [
+      {
+        "id": "en:whole-milk",
+        "percent_max": 72.76,
+        "text": "Vollmilch",
+        "vegan": "no",
+        "rank": 1,
+        "vegetarian": "yes",
+        "percent_min": "6.7",
+        "percent_estimate": 39.73
+      },
+      {
+        "percent_max": 39.73,
+        "id": "en:buttermilk",
+        "text": "Buttermilch",
+        "vegan": "no",
+        "rank": 2,
+        "percent_min": "6.7",
+        "vegetarian": "yes",
+        "percent_estimate": 23.215
+      },
+      {
+        "vegan": "yes",
+        "text": "Wasser",
+        "percent_max": 28.72,
+        "id": "en:water",
+        "percent_estimate": 17.71,
+        "rank": 3,
+        "vegetarian": "yes",
+        "percent_min": "6.7"
+      },
+      {
+        "rank": 4,
+        "percent_min": "6.7",
+        "vegetarian": "yes",
+        "percent_estimate": 13.0225,
+        "percent_max": 23.215,
+        "id": "en:sugar",
+        "vegan": "yes",
+        "text": "Zucker"
+      },
+      {
+        "text": "Reis",
+        "vegan": "yes",
+        "percent": "6.7",
+        "id": "en:rice",
+        "percent_max": "6.7",
+        "percent_estimate": 6.32250000000001,
+        "percent_min": "6.7",
+        "vegetarian": "yes",
+        "rank": 5
+      },
+      {
+        "percent_min": "0.04",
+        "vegetarian": "yes",
+        "rank": 6,
+        "percent_estimate": 0.02,
+        "id": "en:grape-sugar",
+        "percent_max": "6.7",
+        "vegan": "yes",
+        "text": "Traubenzucker"
+      },
+      {
+        "percent_max": "6.7",
+        "id": "en:vanilla-powder",
+        "text": "Vanillepulver",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "percent_min": "0.04",
+        "rank": 7,
+        "percent_estimate": 0.010000000000002
+      },
+      {
+        "percent_estimate": 0.00499999999999943,
+        "vegetarian": "yes",
+        "percent_min": "0.04",
+        "rank": 8,
+        "vegan": "no",
+        "text": "Vollei",
+        "id": "en:whole-egg",
+        "percent_max": "6.7"
+      },
+      {
+        "rank": 9,
+        "percent_min": "0.04",
+        "vegetarian": "yes",
+        "percent_estimate": 0.00250000000000171,
+        "percent_max": "6.7",
+        "id": "en:salt",
+        "text": "Speisesalz",
+        "vegan": "yes"
+      },
+      {
+        "percent_estimate": 0.00125000000000284,
+        "text": "modifiziert Stärke",
+        "rank": 10,
+        "percent_max": "6.7",
+        "percent_min": "0.04",
+        "id": "de:modifiziert Stärke"
+      },
+      {
+        "rank": 11,
+        "percent_min": "0.04",
+        "id": "en:thickener",
+        "percent_max": "6.7",
+        "percent_estimate": 0.000625000000003411,
+        "text": "Verdickungsmittel"
+      },
+      {
+        "vegan": "yes",
+        "text": "Johannisbrotkernmehl",
+        "id": "en:carob-seed-flour",
+        "percent_max": "6.7",
+        "percent_estimate": 0.000312500000003695,
+        "percent_min": "0.04",
+        "vegetarian": "yes",
+        "rank": 12
+      },
+      {
+        "percent_estimate": 0.000156250000000285,
+        "text": "Gurkenmehl",
+        "rank": 13,
+        "percent_min": "0.04",
+        "id": "de:Gurkenmehl",
+        "percent_max": "6.7"
+      },
+      {
+        "percent_max": 6.07333333333333,
+        "id": "en:e407",
+        "vegan": "yes",
+        "text": "Carrageen",
+        "vegetarian": "yes",
+        "percent_min": "0.04",
+        "rank": 14,
+        "percent_estimate": 7.81249999985793e-5
+      },
+      {
+        "percent_estimate": 3.90624999977267e-5,
+        "percent_min": "0.04",
+        "rank": 15,
+        "has_sub_ingredients": "yes",
+        "text": "Farbstoff",
+        "id": "en:colour",
+        "percent_max": 5.60307692307692
+      },
+      {
+        "percent": "0.04",
+        "id": "en:natural-vanilla-flavouring",
+        "percent_max": "0.04",
+        "vegan": "yes",
+        "text": "natürliches Vanillearoma",
+        "vegetarian": "yes",
+        "percent_min": "0.04",
+        "rank": 16,
+        "percent_estimate": -0.0399609374999983
+      },
+      {
+        "percent_estimate": 0,
+        "percent_min": 0,
+        "vegetarian": "maybe",
+        "rank": 17,
+        "vegan": "maybe",
+        "text": "Aroma",
+        "id": "en:flavouring",
+        "percent_max": "0.04"
+      },
+      {
+        "percent_min": 0,
+        "vegetarian": "maybe",
+        "percent_estimate": 3.90624999977267e-5,
+        "id": "en:e160a",
+        "percent_max": 5.60307692307692,
+        "from_palm_oil": "maybe",
+        "text": "Carotin",
+        "vegan": "maybe"
+      }
+    ],
+    "stores_tags": [],
+    "unknown_ingredients_n": 2,
+    "languages_hierarchy": ["en:german", "en:english", "en:french"],
+    "nutrition_data_prepared_per": "100g",
+    "nova_groups": "4",
+    "categories_lc": "de",
+    "product_name_fr": "Milchreis, Vanilla",
+    "countries_tags": ["en:germany"],
+    "serving_size": "200g",
+    "carbon_footprint_percent_of_known_ingredients": 6.7,
+    "origins_old": "",
+    "labels": "en:made-in-germany",
+    "unique_scans_n": 10,
+    "traces_lc": "de",
+    "vitamins_tags": [],
+    "allergens_from_ingredients": "Vollmilch, Buttermilch, Vollei",
+    "amino_acids_tags": [],
+    "ingredients_text_with_allergens_en": "whole milk, buttermilk, water, sugar, 6.7% rice, glucose, vanilla powder, <span class=\"allergen\">whole egg</span>, table salt, modified starch, thickener, carob gum, cucumber flour, carrageenan, colouring (carotene), 0.04% natural vanilla flavor, flavor",
+    "no_nutrition_data": "",
+    "generic_name": "",
+    "_keywords": [
+      "dessert",
+      "vanillemilchrei",
+      "made-in-germany",
+      "vanille",
+      "milchreisbrei",
+      "müller",
+      "milchrei",
+      "pudding"
+    ],
+    "labels_lc": "en",
+    "nutriscore_data": {
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+      "saturated_fat": 1.6,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+      "energy": 431,
+      "fiber": 0,
+      "saturated_fat_points": 1,
+      "saturated_fat_value": 1.6,
+      "negative_points": 5,
+      "positive_points": 2,
+      "energy_value": 431,
+      "sugars": 11,
+      "sodium_value": 104,
+      "score": 3,
+      "saturated_fat_ratio_value": 64,
+      "is_fat": 0,
+      "sugars_points": 2,
+      "saturated_fat_ratio_points": 10,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+      "energy_points": 1,
+      "is_water": 0,
+      "sodium_points": 1,
+      "grade": "c",
+      "fiber_value": 0,
+      "sugars_value": 11,
+      "proteins": 3.3,
+      "proteins_value": 3.3,
+      "fiber_points": 0,
+      "proteins_points": 2,
+      "sodium": 104,
+      "is_cheese": 0,
+      "is_beverage": 0,
+      "saturated_fat_ratio": 64
+    },
+    "code": "40255705",
+    "generic_name_de": "",
+    "ecoscore_tags": ["b"],
+    "lang": "de",
+    "ingredients_hierarchy": [
+      "en:whole-milk",
+      "en:dairy",
+      "en:milk",
+      "en:buttermilk",
+      "en:water",
+      "en:sugar",
+      "en:rice",
+      "en:grape-sugar",
+      "en:vanilla-powder",
+      "en:plant",
+      "en:vanilla",
+      "en:whole-egg",
+      "en:egg",
+      "en:salt",
+      "de:modifiziert Stärke",
+      "en:thickener",
+      "en:carob-seed-flour",
+      "en:flour",
+      "en:e410",
+      "de:Gurkenmehl",
+      "en:e407",
+      "en:colour",
+      "en:natural-vanilla-flavouring",
+      "en:flavouring",
+      "en:natural-flavouring",
+      "en:vanilla-flavouring",
+      "en:e160a"
+    ],
+    "packaging": "Plastik",/*wichtig*/
+    "data_quality_bugs_tags": [],
+    "minerals_prev_tags": [],
+    "countries_hierarchy": ["en:germany"],
+    "expiration_date": "",
+    "ingredients_n": 18,
+    "created_t": 1531665455,
+    "_id": "40255705",
+    "nutrition_grades": "c",
+    "link": "",
+    "editors_tags": [
+      "raturina",
+      "soarman",
+      "tacite-mass-editor",
+      "inf",
+      "openfoodfacts-contributors",
+      "gartenkralle",
+      "kiliweb",
+      "yuka.ZWE4K1BZc1l2UEl1dHNKbnJqajh5ODVJbmI2QVhXSG1FYklTSVE9PQ",
+      "date-limite-app",
+      "yuka.SDV3TEdyOGcrL01FcWNCbHd4UHY4KzhzbXJtWVhraUlJTFl6SVE9PQ"
+    ],
+    "nova_groups_tags": ["en:4-ultra-processed-food-and-drink-products"],
+    "countries_lc": "en",
+    "nutriments": {
+      "energy": 431,
+      "salt_serving": 0.52,
+      "salt_100g": 0.26,
+      "sugars_100g": 11,
+      "sugars_serving": 22,
+      "fat_100g": 2.5,
+      "energy-kcal_100g": 103,
+      "saturated-fat_unit": "g",
+      "salt_value": 0.26,
+      "sodium_100g": 0.104,
+      "proteins_serving": 6.6,
+      "nutrition-score-fr_100g": 3,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+      "proteins_unit": "g",
+      "energy_value": 103,
+      "sodium_serving": 0.208,
+      "nova-group_serving": 4,
+      "sugars": 11,
+      "sodium_value": 0.104,
+      "energy-kcal_unit": "kcal",
+      "nova-group_100g": 4,
+      "saturated-fat_serving": 3.2,
+      "energy_unit": "kcal",
+      "calcium_serving": 0.183,
+      "saturated-fat": 1.6,
+      "carbohydrates_100g": 16.8,
+      "calcium_unit": "mg",
+      "carbon-footprint-from-known-ingredients_product": 18.8,
+      "carbohydrates_serving": 33.6,
+      "energy_100g": 431,
+      "proteins_100g": 3.3,
+      "energy-kcal_value": 103,
+      "carbohydrates": 16.8,
+      "nova-group": 4,
+      "calcium": 0.0913,
+      "calcium_100g": 0.0913,
+      "fat_unit": "g",
+      "fat": 2.5,
+      "saturated-fat_value": 1.6,
+      "sodium_unit": "g",
+      "saturated-fat_100g": 1.6,
+      "carbohydrates_value": 16.8,
+      "carbon-footprint-from-known-ingredients_serving": 18.8,
+      "energy-kcal": 103,
+      "proteins": 3.3,
+      "carbohydrates_unit": "g",
+      "proteins_value": 3.3,
+      "fat_serving": 5,
+      "sodium": 0.104,
+      "nutrition-score-fr": 3,
+      "energy_serving": 862,
+      "energy-kcal_serving": 206,
+      "salt_unit": "g",
+      "salt": 0.26,
+      "sugars_value": 11,
+      "fat_value": 2.5,
+      "sugars_unit": "g",
+      "calcium_value": 91.3
+    },
+    "labels_tags": ["en:made-in-germany"],
+    "manufacturing_places": ""
+  },
+  "status_verbose": "product found"/*wichtig*/
+}

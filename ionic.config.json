@@ -1,0 +1,13 @@
+{
+  "name": "Foody",
+  "integrations": {
+    "capacitor": {
+      "enabled": true
+    },
+    "cordova": {
+      "enabled": false
+    }
+  },
+  "type": "angular",
+  "id": "a6bff3bd"
+}

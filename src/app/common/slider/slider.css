@@ -1,0 +1,30 @@
+.slider-container {
+    margin-left: 8px; 
+    position: relative;  
+}
+
+.slider {
+    position: relative;
+}
+
+.slider .background {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    border: 1px solid #e8e8e8;
+    position: absolute;
+}
+
+.slider .stroked {
+    background-color: #34626c;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 1;
+}
+
+.label {
+    color: rgba(var(--ion-text-color-rgb, 0, 0, 0), 0.4);
+    margin-bottom: 0;
+    z-index: 2;
+    position: absolute;
+}
+

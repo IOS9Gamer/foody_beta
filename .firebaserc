@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "foody-a3c35": {
+      "hosting": {
+        "app": [
+          "foody-a3c35"
+        ]
+      }
+    }
+  }
+}
